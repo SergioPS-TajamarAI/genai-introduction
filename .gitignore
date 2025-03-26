@@ -2,3 +2,6 @@
 **/traffic
 **/training*
 **/datasets
+**/*.zip
+**/Housing.csv
+caso-de-estudio/prediccion-precios-vivienda.ipynb
