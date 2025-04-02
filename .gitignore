@@ -5,3 +5,4 @@
 **/*.zip
 **/Housing.csv
 caso-de-estudio/prediccion-precios-vivienda.ipynb
+**/binary_classification_vizualizations
